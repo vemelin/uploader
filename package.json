@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "homepage": "https://vemelin.github.io/uploader",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
