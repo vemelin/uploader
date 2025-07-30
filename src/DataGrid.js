@@ -179,7 +179,7 @@ const DataGrid = () => {
   return (
     <div className="w-full max-w-7xl mx-auto p-6 bg-white">
       <div className="mb-6">
-        <h1 className="text-3xl font-bold text-gray-900 mb-2">Data Grid Manager</h1>
+        <h1 className="text-3xl font-bold text-gray-900 mb-2">Payment Method Data Manager</h1>
         <p className="text-gray-600">Upload CSV or JSON files to view and edit your data</p>
       </div>
 
