@@ -1,6 +1,6 @@
 {
   "name": "data-grid-app",
-  "homepage": "https://vemelin.github.io/uploader",
+  "homepage": "https://vemelin.github.io/uploader/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
